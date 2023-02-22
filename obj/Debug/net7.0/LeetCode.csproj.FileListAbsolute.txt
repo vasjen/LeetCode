@@ -1,0 +1,15 @@
+/Users/vasjen/LeetCode/bin/Debug/net7.0/LeetCode
+/Users/vasjen/LeetCode/bin/Debug/net7.0/LeetCode.deps.json
+/Users/vasjen/LeetCode/bin/Debug/net7.0/LeetCode.runtimeconfig.json
+/Users/vasjen/LeetCode/bin/Debug/net7.0/LeetCode.dll
+/Users/vasjen/LeetCode/bin/Debug/net7.0/LeetCode.pdb
+/Users/vasjen/LeetCode/obj/Debug/net7.0/LeetCode.csproj.AssemblyReference.cache
+/Users/vasjen/LeetCode/obj/Debug/net7.0/LeetCode.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vasjen/LeetCode/obj/Debug/net7.0/LeetCode.AssemblyInfoInputs.cache
+/Users/vasjen/LeetCode/obj/Debug/net7.0/LeetCode.AssemblyInfo.cs
+/Users/vasjen/LeetCode/obj/Debug/net7.0/LeetCode.csproj.CoreCompileInputs.cache
+/Users/vasjen/LeetCode/obj/Debug/net7.0/LeetCode.dll
+/Users/vasjen/LeetCode/obj/Debug/net7.0/refint/LeetCode.dll
+/Users/vasjen/LeetCode/obj/Debug/net7.0/LeetCode.pdb
+/Users/vasjen/LeetCode/obj/Debug/net7.0/LeetCode.genruntimeconfig.cache
+/Users/vasjen/LeetCode/obj/Debug/net7.0/ref/LeetCode.dll

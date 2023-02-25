@@ -1,13 +1,26 @@
 ﻿// See https://aka.ms/new-console-template for more information
 Console.WriteLine("Hello, World!");
 
-var sol = new LeetCode.Problem896.Alternative();
-var ans = sol.IsMonotonic(new int[] {1,2,2,3});
+var sol = new LeetCode.Problem925.Solution();
+var ans = sol.IsLongPressedName("alex","aaleex");
 System.Console.WriteLine(ans);
-ans = sol.IsMonotonic(new int[] {6,5,4,4});
+System.Console.WriteLine("");
+ans = sol.IsLongPressedName("saeed", "ssaaedd");
 System.Console.WriteLine(ans);
-ans = sol.IsMonotonic(new int[] {1,3,2});
+System.Console.WriteLine("");
+
+ans = sol.IsLongPressedName("a", "b");
+
 System.Console.WriteLine(ans);
-//Additional
-ans = sol.IsMonotonic(new int[] {-1,-1,0,3,3});
+System.Console.WriteLine("");
+ans = sol.IsLongPressedName("alex", "aaleexa");
 System.Console.WriteLine(ans);
+
+System.Console.WriteLine("");
+ans = sol.IsLongPressedName("leelee", "lleeelee");
+System.Console.WriteLine(ans);
+
+ans = sol.IsLongPressedName("alexd", "ale");
+System.Console.WriteLine(ans);
+
+

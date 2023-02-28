@@ -2,7 +2,7 @@
 
 
 
-var sol = new LeetCode.Problem13.Solution();
+var sol = new LeetCode.Problem13.Alternative();
 string converting = "III";
 var ans = sol.RomanToInt(converting);
 System.Console.WriteLine("Convert from {0}",converting);

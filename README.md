@@ -22,5 +22,6 @@ My solved problems from [LeetCode](https://leetcode.com/problems/)
 |1422|[Maximum Score After Splitting a String](https://leetcode.com/problems/maximum-score-after-splitting-a-string/description/) | [C#](./Easy/1422/Solution.cs) |05-03-2023| [:milky_way:](./Easy/1422/Runtime.png)|[:sunrise_over_mountains:](./Easy/1422/Memory.png)
 |1974|[Minimum Time to Type Word Using Special Typewriter](https://leetcode.com/problems/minimum-time-to-type-word-using-special-typewriter/description/) | [C#](./Easy/1974/Solution.cs) |04-03-2023| [:milky_way:](./Easy/1974/Runtime.png)|[:sunrise_over_mountains:](./Easy/1974/Memory.png)
 |1979|[Find Greatest Common Divisor of Array](https://leetcode.com/problems/find-greatest-common-divisor-of-array/) | [C#](./Easy/1979/Solution.cs) |23-02-2023| [:milky_way:](./Easy/1979/Runtime.png)|[:sunrise_over_mountains:](./Easy/1979/Memory.png)
+|2114|[Maximum Number of Words Found in Sentences](https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/) | [C#](./Easy/2114/Solution.cs) |05-03-2023| [:milky_way:](./Easy/2114/Runtime.png)|[:sunrise_over_mountains:](./Easy/2114/Memory.png)
 |2451|[Odd String Difference](https://leetcode.com/problems/odd-string-difference/) | [C#](./Easy/2451/Solution.cs) |24-02-2023| [:milky_way:](./Easy/2451/Runtime.png)|[:sunrise_over_mountains:](./Easy/2451/Memory.png)
 

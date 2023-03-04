@@ -1,4 +1,4 @@
-namespace CLeetCode.Problem1979{
+namespace LeetCode.Problem1979{
 //https://leetcode.com/problems/find-greatest-common-divisor-of-array/
 /*
 Given an integer array nums, return the greatest common divisor of the smallest number 

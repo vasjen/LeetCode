@@ -11,7 +11,7 @@ My solved problems from [LeetCode](https://leetcode.com/problems/)
 |---| ----- | -------- | -------- | --------| ------ |
 |1|[Two Sum](https://leetcode.com/problems/two-sum/) | [C#](./Easy/1/Solution.cs) |22-02-2023| [:milky_way:](./Easy/1/Runtime.png)|[:sunrise_over_mountains:](./Easy/1/Memory.png)
 |9|[Palindrome Number](https://leetcode.com/problems/palindrome-number) | [C#](./Easy/9/Solution.cs) |22-02-2023| [:milky_way:](./Easy/9/Runtime.png)|[:sunrise_over_mountains:](./Easy/9/Memory.png)
-|13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/description/) | [C#](./Easy/13/Solution.cs), [C# Alternative](./Easy/13/Alternative.cs) |28-02-2023| [:milky_way:](./Easy/13/Runtime.png)|[:sunrise_over_mountains:](./Easy/13/Memory.png)
+|13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/description/) | [C# 1](./Easy/13/Solution.cs) , [C# 2](./Easy/13/Alternative.cs) |28-02-2023| [:milky_way:](./Easy/13/Runtime.png)|[:sunrise_over_mountains:](./Easy/13/Memory.png)
 |14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [C#](./Easy/14/Solution.cs) |02-03-2023| [:milky_way:](./Easy/14/Runtime.png)|[:sunrise_over_mountains:](./Easy/14/Memory.png)
 |326|[Power of Three](https://leetcode.com/problems/power-of-three/description/) | [C#](./Easy/326/Solution.cs) |04-03-2023| [:milky_way:](./Easy/326/Runtime.png)|[:sunrise_over_mountains:](./Easy/326/Memory.png)
 |461|[Hamming Distance](https://leetcode.com/problems/hamming-distance/description/) | [C#](./Easy/461/Solution.cs) |04-03-2023| [:milky_way:](./Easy/461/Runtime.png)|[:sunrise_over_mountains:](./Easy/461/Memory.png)

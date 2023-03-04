@@ -10,12 +10,16 @@ Return the maximum number of words that appear in a single sentence.
     public int MostWordsFound(string[] sentences) {
     
      return sentences
-        .Select(p=> p
+        .Select(p=> 
+          new {
+              List = p
                 .Split(' ')
                 .ToList()
-                .Count)
-        .OrderByDescending(p=>p)
-        .FirstOrDefault();
+                .Count
+     })
+        .OrderByDescending(p=>p.List)
+        .FirstOrDefault()
+        .List;
     }
 }
 } 

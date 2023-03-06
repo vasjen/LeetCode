@@ -12,19 +12,43 @@ Return the string formed after mapping.
    public string FreqAlphabets(string s) {
     
     Stack<char> StackS = new Stack<char>();
+    int i = s.Length-1;
+    while (i >= 0){
+      var newChar = s.ElementAt(i);
+      switch (newChar){
 
-    for (int i = s.Length - 1;i >= 0;i--)
-    {
-        var newChar = s.ElementAt(i);
-        if (newChar != '#'){
-           StackS.Push((char)(int)(s.ElementAt(i) + 48));
-        }
-        else{
-          var num = int.Parse(s.ElementAt(i - 2).ToString()+s.ElementAt(i - 1).ToString());
+        case '#' : {
+          var num = int.Parse((s.ElementAt(i - 2).ToString()+s.ElementAt(i - 1)).ToString());
+          
           StackS.Push((char)(num + 96));
-          i = i - 2;
+          i = i - 3;
+          break; 
         }
+        default : {
+          StackS.Push((char)(int)(newChar + 48));
+          i--;
+          break;
+        }
+
+        
+      }
+
     }
+
+
+
+    //for (int i = s.Length - 1;i >= 0;i--)
+    //{
+    //    var newChar = s.ElementAt(i);
+    //    if (newChar != '#'){
+    //       StackS.Push((char)(int)(newChar + 48));
+    //    }
+    //    else{
+    //      var num = int.Parse(s.ElementAt(i - 2).ToString()+s.ElementAt(i - 1));
+    //      StackS.Push((char)(num + 96));
+    //      i = i - 2;
+    //    }
+    
    string answer = new string(StackS.ToArray());
         return answer;
         

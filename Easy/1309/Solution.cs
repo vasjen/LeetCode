@@ -34,20 +34,6 @@ Return the string formed after mapping.
       }
 
     }
-
-
-
-    //for (int i = s.Length - 1;i >= 0;i--)
-    //{
-    //    var newChar = s.ElementAt(i);
-    //    if (newChar != '#'){
-    //       StackS.Push((char)(int)(newChar + 48));
-    //    }
-    //    else{
-    //      var num = int.Parse(s.ElementAt(i - 2).ToString()+s.ElementAt(i - 1));
-    //      StackS.Push((char)(num + 96));
-    //      i = i - 2;
-    //    }
     
    string answer = new string(StackS.ToArray());
         return answer;

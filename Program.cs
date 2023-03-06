@@ -1,24 +1,13 @@
 ﻿
-var sol = new LeetCode.Problem2129.Solution();
+var sol = new LeetCode.Problem1539.Solution();
 
-string title0 = "capiTalIze tHe titLe";
-var ans0 = sol.CapitalizeTitle(title0);
-System.Console.WriteLine("Title is {0}, ans is {1}\n",title0,ans0);
+int[] arr0 = new int[] {2,3,4,7,11};
+int k0=5;
+var ans0 = sol.FindKthPositive(arr0,k0);
+System.Console.WriteLine("Answer is {0}",ans0);
 
-string title1 = "First leTTeR of EACH Word";
-var ans1 = sol.CapitalizeTitle(title1);
-System.Console.WriteLine("Title is {0}, ans is {1}\n",title1,ans1);
-
-string title2 = "i lOve leetcode";
-var ans2 = sol.CapitalizeTitle(title2);
-System.Console.WriteLine("Title is {0}, ans is {1}\n",title2,ans2);
-
-string title3 = "O";
-var ans3 = sol.CapitalizeTitle(title3);
-System.Console.WriteLine("Title is {0}, ans is {1}\n",title3,ans3);
-
-string title4 = "Milki-WAY";
-var ans4 = sol.CapitalizeTitle(title4);
-System.Console.WriteLine("Title is {0}, ans is {1}\n",title4,ans4);
-
+int[] arr1 = new int[] {1,2,3,4};
+int k1=2;
+var ans1 = sol.FindKthPositive(arr1,k1);
+System.Console.WriteLine("Answer is {0}",ans1);
 

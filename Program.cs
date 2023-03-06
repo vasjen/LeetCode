@@ -1,28 +1,24 @@
 ﻿
-var sol = new LeetCode.Problem1103.Solution();
+var sol = new LeetCode.Problem2129.Solution();
 
-int candies0 = 7;
-int num_people0=4;
-var ans0 = sol.DistributeCandies(candies0,num_people0);
-//System.Console.WriteLine("S is {0}, ans is {1}",s1,ans1);
+string title0 = "capiTalIze tHe titLe";
+var ans0 = sol.CapitalizeTitle(title0);
+System.Console.WriteLine("Title is {0}, ans is {1}\n",title0,ans0);
 
-int candies1 = 10;
-int num_people1=3;
-var ans1 = sol.DistributeCandies(candies1,num_people1);
+string title1 = "First leTTeR of EACH Word";
+var ans1 = sol.CapitalizeTitle(title1);
+System.Console.WriteLine("Title is {0}, ans is {1}\n",title1,ans1);
 
-int candies2 = 20;
-int num_people2=3;
-var ans2 = sol.DistributeCandies(candies2,num_people2);
+string title2 = "i lOve leetcode";
+var ans2 = sol.CapitalizeTitle(title2);
+System.Console.WriteLine("Title is {0}, ans is {1}\n",title2,ans2);
 
-int candies3 = 30;
-int num_people3=3;
-var ans3 = sol.DistributeCandies(candies3,num_people3);
+string title3 = "O";
+var ans3 = sol.CapitalizeTitle(title3);
+System.Console.WriteLine("Title is {0}, ans is {1}\n",title3,ans3);
 
-
-
-
-
-
-
+string title4 = "Milki-WAY";
+var ans4 = sol.CapitalizeTitle(title4);
+System.Console.WriteLine("Title is {0}, ans is {1}\n",title4,ans4);
 
 

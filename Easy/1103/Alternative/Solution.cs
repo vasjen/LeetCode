@@ -1,5 +1,5 @@
 namespace LeetCode.Problem1103.ALternative{
-public class ALternative {
+public class Solution {
     public int[] DistributeCandies(int candies, int num_people) {
       
         int counter = 0;

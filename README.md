@@ -34,4 +34,5 @@ My solved problems from [LeetCode](https://leetcode.com/problems/)
 |2335|[Minimum Amount of Time to Fill Cups](https://leetcode.com/problems/minimum-amount-of-time-to-fill-cups/) | [C#](./Easy/2335/Solution.cs) |16-03-2023| [:milky_way:](./Easy/2335/Runtime.png)|[:sunrise_over_mountains:](./Easy/2335/Memory.png)
 |2351|[First Letter to Appear Twicee](https://leetcode.com/problems/first-letter-to-appear-twice) | [C# 1](./Easy/2351/Solution.cs) , [C# 2](./Easy/2351/Alternative/Solution.cs) |07-03-2023| [:milky_way:](./Easy/2351/Runtime.png)|[:sunrise_over_mountains:](./Easy/2351/Memory.png)
 |2451|[Odd String Difference](https://leetcode.com/problems/odd-string-difference/) | [C#](./Easy/2451/Solution.cs) |24-02-2023| [:milky_way:](./Easy/2451/Runtime.png)|[:sunrise_over_mountains:](./Easy/2451/Memory.png)
+|2455|[Average Value of Even Numbers That Are Divisible by Three](https://leetcode.com/problems/average-value-of-even-numbers-that-are-divisible-by-three/) | [C#](./Easy/2455/Solution.cs) |23-03-2023| [:milky_way:](./Easy/2455/Runtime.png)|[:sunrise_over_mountains:](./Easy/2455/Memory.png)
 

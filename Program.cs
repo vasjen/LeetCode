@@ -1,26 +1,18 @@
 ﻿
-var sol = new LeetCode.Problem2144.Solution();
+var sol = new LeetCode.Problem2224.Solution();
+var current0 = "02:30";
+var correct0 = "04:35";
+var ans0 = sol.ConvertTime(current0,correct0);
+System.Console.WriteLine("Current: {0}, correct: {1}, min steps: {2}",current0,correct0,ans0);
 
-int[] cost0 = new[] {1,2,3};
-var ans0 = sol.MinimumCost(cost0);
-System.Console.WriteLine("minimum cost is {0}", ans0);
+var current1 = "11:00";
+var correct1 = "11:01";
+var ans1 = sol.ConvertTime(current1,correct1);
+System.Console.WriteLine("Current: {0}, correct: {1}, min steps: {2}",current1,correct1,ans1);
 
-int[] cost1 = new[] {6,5,7,9,2,2};
-var ans1 = sol.MinimumCost(cost1);
-System.Console.WriteLine("minimum cost is {0}", ans1);
+var current2 = "11:01";
+var correct2 = "11:00";
+var ans2 = sol.ConvertTime(current2,correct2);
+System.Console.WriteLine("Current: {0}, correct: {1}, min steps: {2}",current2,correct2,ans2);
 
-int[] cost2 = new[] {5,5};
-var ans2 = sol.MinimumCost(cost2);
-System.Console.WriteLine("minimum cost is {0}", ans2);
 
-int[] cost3 = new[] {5,1,1,5};
-var ans3 = sol.MinimumCost(cost3);
-System.Console.WriteLine("minimum cost is {0}", ans3);
-
-int[] cost4 = new[] {1,1,1,1,1};
-var ans4 = sol.MinimumCost(cost4);
-System.Console.WriteLine("minimum cost is {0}", ans4);
-
-int[] cost5 = new[] {99,99,99,99,1};
-var ans5 = sol.MinimumCost(cost5);
-System.Console.WriteLine("minimum cost is {0}", ans5);

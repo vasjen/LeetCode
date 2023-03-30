@@ -1,8 +1,5 @@
 ﻿
-var sol = new LeetCode.Problem1089.Solution();
-var arr0 = new int[] {1,0,2,3,0,4,5,0};
-var arr1 = new int[] {1,2,3};
-var arr2 = new int[] {0,0,0,0,0,0,0};
-sol.DuplicateZeros(arr0);
-sol.DuplicateZeros(arr1);
-sol.DuplicateZeros(arr2);
+var sol = new LeetCode.Problem709.Solution();
+var s0 = "Hello";
+var ans0 = sol.ToLowerCase(s0);
+System.Console.WriteLine("For string '{0}' lower is '{1}'",s0,ans0);

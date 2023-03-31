@@ -37,7 +37,7 @@ If there is more than one solution, return any of them. It can be shown that an 
         {
           char prev = i > 0 ? ans[i - 1] :  ' ';
           char next = i < s.Length-1 ? s[i + 1] :  ' ';
-          hz = Convert.ToChar(97+val);
+          val = 0;
           do
           {
             hz = Convert.ToChar(97+val);
@@ -47,11 +47,8 @@ If there is more than one solution, return any of them. It can be shown that an 
           while(hz == prev || hz == next);
          
               ans.Append(hz);
-              val = 0;
-           
         }
         else
-        
           ans.Append(s[i]);
         
       }

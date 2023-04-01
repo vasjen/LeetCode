@@ -1,14 +1,23 @@
 ﻿
-var sol = new LeetCode.Problem2154.Solution();
-var nums0 = new int[] {5,3,6,1,12};
-var original0 = 3;
-var ans0 = sol.FindFinalValue(nums0,original0);
-System.Console.WriteLine("Answer is {0}", ans0);
+using LeetCode.Problem145;
 
-var nums1 = new int[] {2,7,9};
-var original1 = 4;
-var ans1 = sol.FindFinalValue(nums1,original1);
-System.Console.WriteLine("Answer is {0}", ans1);
+var sol = new LeetCode.Problem145.Solution();
+var nums0 = new TreeNode(1, null, new TreeNode(2,new TreeNode(3)));
+var ans0 = sol.PostorderTraversal(nums0);
+
+foreach (var item in ans0)
+{
+    System.Console.WriteLine(item);
+}
+System.Console.WriteLine("********************\n");
+var nums1 = new TreeNode(3, null, new TreeNode(1,new TreeNode(2)));
+var ans1 = sol.PostorderTraversal(nums1);
+
+foreach (var item in ans1)
+{
+    System.Console.WriteLine(item);
+}
+
 
 
 

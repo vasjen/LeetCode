@@ -14,6 +14,7 @@ My solved problems from [LeetCode](https://leetcode.com/problems/)
 |13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/description/) | [C# 1](./Easy/13/Solution.cs) , [C# 2](./Easy/13/Alternative.cs) |28-02-2023| [:milky_way:](./Easy/13/Runtime.png)|[:sunrise_over_mountains:](./Easy/13/Memory.png)
 |14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [C#](./Easy/14/Solution.cs) |02-03-2023| [:milky_way:](./Easy/14/Runtime.png)|[:sunrise_over_mountains:](./Easy/14/Memory.png)
 |112|[Path Sum](https://leetcode.com/problems/path-sum) | [C#](./Easy/112/Solution.cs) |15-03-2023| [:milky_way:](./Easy/112/Runtime.png)|[:sunrise_over_mountains:](./Easy/112/Memory.png)
+|145|[Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) | [C#](./Easy/145/Solution.cs) |01-04-2023| [:milky_way:](./Easy/145/Runtime.png)|[:sunrise_over_mountains:](./Easy/145/Memory.png)
 |326|[Power of Three](https://leetcode.com/problems/power-of-three/description/) | [C#](./Easy/326/Solution.cs) |04-03-2023| [:milky_way:](./Easy/326/Runtime.png)|[:sunrise_over_mountains:](./Easy/326/Memory.png)
 |461|[Hamming Distance](https://leetcode.com/problems/hamming-distance/description/) | [C#](./Easy/461/Solution.cs) |04-03-2023| [:milky_way:](./Easy/461/Runtime.png)|[:sunrise_over_mountains:](./Easy/461/Memory.png)
 |606|[Sales Person](https://leetcode.com/problems/sales-person/description/) | [SQL](./Easy/606/Solution.sql) |04-03-2023| [:milky_way:](./Easy/606/Runtime.png)| –

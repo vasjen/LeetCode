@@ -1,32 +1,15 @@
 ﻿
-var sol = new LeetCode.Problem1544.Solution();
-var s0 = "leEeetcode";
-var ans0 = sol.MakeGood(s0);
-System.Console.WriteLine(s0+" => "+ans0);
+var sol = new LeetCode.Problem2154.Solution();
+var nums0 = new int[] {5,3,6,1,12};
+var original0 = 3;
+var ans0 = sol.FindFinalValue(nums0,original0);
+System.Console.WriteLine("Answer is {0}", ans0);
 
-var s1 = "abBAcC";
-var ans1 = sol.MakeGood(s1);
-System.Console.WriteLine(s1+" => "+ans1);
+var nums1 = new int[] {2,7,9};
+var original1 = 4;
+var ans1 = sol.FindFinalValue(nums1,original1);
+System.Console.WriteLine("Answer is {0}", ans1);
 
-var s2 = "s";
-var ans2 = sol.MakeGood(s2);
-System.Console.WriteLine(s2+" => "+ans2);
-
-var s3 = "sSs";
-var ans3 = sol.MakeGood(s3);
-System.Console.WriteLine(s3+" => "+ans3);
-
-var s4 = "aaaaAaa";
-var ans4 = sol.MakeGood(s4);
-System.Console.WriteLine(s4+" => "+ans4);
-
-var s5 = "BBaBa";
-var ans5 = sol.MakeGood(s5);
-System.Console.WriteLine(s5+" => "+ans5);
-
-var s6 = "Pp";
-var ans6 = sol.MakeGood(s6);
-System.Console.WriteLine(s6+" => "+ans6);
 
 
 

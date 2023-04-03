@@ -1,4 +1,5 @@
 namespace LeetCode.Problem2057{
+//2057. Smallest Index With Equal Value
 //https://leetcode.com/problems/find-greatest-common-divisor-of-array/
 /*
 Given a 0-indexed integer array nums, return the smallest index i of nums such that i mod 10 == nums[i], or -1 

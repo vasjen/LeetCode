@@ -8,20 +8,22 @@ or false otherwise. If the array is already strictly increasing, return true.
 The array nums is strictly increasing if nums[i - 1] < nums[i] for each index (1 <= i < nums.length).
 
 */
-  public class Solution {
+  public class Better {
      
-    public bool CanBeIncreasing(int[] nums) {
-        
-
-        for (int i = 0; i < nums.Length; i++)
+     public bool CanBeIncreasing(int[] nums) {
+      int counter = 0;
+        for (int i = 1; i < nums.Length; i++)
         {
-          List<int> newNums = nums.ToList();
-          newNums.RemoveAt(i);
-          if (newNums.SequenceEqual(newNums.OrderBy(p => p)) && (newNums.GroupBy(p => p).Count() == newNums.Count))
-            return true;
+           if (nums[i - 1] >= nums[i])
+            {
+              counter++;
+              var prev = i > 1 ? nums[i - 2] : int.MinValue;
+              var next = i < nums.Length - 1 ? nums[i + 1] : int.MaxValue;
+              if (nums[i] <= prev && nums[i - 1] >= next)
+                return false; 
+            }
         }
-        
-        return false;
-    }
+        return counter > 1 ? false : true;
+  }
 } 
 }

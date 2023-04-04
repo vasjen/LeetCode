@@ -19,25 +19,24 @@ Answers within 10-5 of the actual answer will be accepted.
     
 
   public class Solution {
-    List<IEnumerable<long>> nodes = new List<IEnumerable<long>>();
+    List<IEnumerable<int>> nodes = new List<IEnumerable<int>>();
     List<double> averageNodes = new List<double>();
     int level = 0;
     public IList<double> AverageOfLevels(TreeNode root) {
        
        ListAllNodes(root);
-       var levelNodes = nodes.GroupBy(p => p.FirstOrDefault()).ToList();
-       foreach (var item in levelNodes)
+       foreach (var item in nodes.GroupBy(p => p.FirstOrDefault()).ToList())
        {
-        averageNodes.Add((double)item.Sum(p => p.LastOrDefault()) / item.Count());
+        averageNodes.Add(item.Sum(p => Convert.ToDouble(p.LastOrDefault())) / item.Count());
        }
        return averageNodes;
 
     }
-    public List<IEnumerable<long>> ListAllNodes (TreeNode root)
+    public void ListAllNodes (TreeNode root)
     {
         if (root != null){
             
-            nodes.Add(new long[] {level,root.val});
+            nodes.Add(new int[2] {level,root.val});
             level++;
             if (root.left!=null)
                 ListAllNodes(root.left);
@@ -45,7 +44,6 @@ Answers within 10-5 of the actual answer will be accepted.
                 ListAllNodes(root.right);
         }
         level--;
-        return nodes;
     }
 }
 } 

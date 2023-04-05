@@ -17,6 +17,7 @@ My solved problems from [LeetCode](https://leetcode.com/problems/)
 |112|[Path Sum](https://leetcode.com/problems/path-sum) | [C#](./Easy/112/Solution.cs) |15-03-2023| [:milky_way:](./Easy/112/Runtime.png)|[:sunrise_over_mountains:](./Easy/112/Memory.png)
 |145|[Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) | [C#](./Easy/145/Solution.cs) |01-04-2023| [:milky_way:](./Easy/145/Runtime.png)|[:sunrise_over_mountains:](./Easy/145/Memory.png)
 |326|[Power of Three](https://leetcode.com/problems/power-of-three/description/) | [C#](./Easy/326/Solution.cs) |04-03-2023| [:milky_way:](./Easy/326/Runtime.png)|[:sunrise_over_mountains:](./Easy/326/Memory.png)
+|414|[Third Maximum Number](https://leetcode.com/problems/third-maximum-number/) | [C#](./Easy/414/Solution.cs) |05-04-2023| [:milky_way:](./Easy/414/Runtime.png)|[:sunrise_over_mountains:](./Easy/414/Memory.png)
 |461|[Hamming Distance](https://leetcode.com/problems/hamming-distance/description/) | [C#](./Easy/461/Solution.cs) |04-03-2023| [:milky_way:](./Easy/461/Runtime.png)|[:sunrise_over_mountains:](./Easy/461/Memory.png)
 |606|[Sales Person](https://leetcode.com/problems/sales-person/description/) | [SQL](./Easy/606/Solution.sql) |04-03-2023| [:milky_way:](./Easy/606/Runtime.png)| –
 |637|[Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/) | [C#](./Easy/637/Solution.cs) |04-04-2023| [:milky_way:](./Easy/637/Runtime.png)|[:sunrise_over_mountains:](./Easy/637/Memory.png)

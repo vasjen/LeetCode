@@ -1,8 +1,9 @@
 ﻿
-var sol = new LeetCode.Problem594.Solution();
-var nums0 = new int[] {1,3,2,2,5,2,3,7};
-var ans0 = sol.FindLHS(nums0);
-System.Console.WriteLine(" {1} => for s: '{0}'",nums0,ans0);
+var sol = new LeetCode.Problem1700.Solution();
+var stud0 = new int[] {1,1,0,0,1,1,0,1,1,0,0,1,1,1,0,0,1,1,0,1,1,0,0,1,1,1,0,0,1,1,0,1,1,0,0,1,1,1,0,0,1,1,0,1,1,0,0,1,1,1,0,0,1,1,0,1,1,0,0,1,0};
+var sandwitch0 = new int[] {1,1,0,0,1,1,0,1,1,0,0,1,1,1,0,0,1,1,0,1,1,0,0,1,1,1,0,1,1,1,0,1,1,0,0,1,1,1,0,0,1,1,0,1,1,0,0,1,1,1,0,1,1,1,0,1,1,0,0,1,0};
+var ans0 = sol.CountStudents(stud0,sandwitch0);
+System.Console.WriteLine("{0} => Answer ",ans0);
 
 
 

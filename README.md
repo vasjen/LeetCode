@@ -20,6 +20,7 @@ My solved problems from [LeetCode](https://leetcode.com/problems/)
 |414|[Third Maximum Number](https://leetcode.com/problems/third-maximum-number/) | [C#](./Easy/414/Solution.cs) |05-04-2023| [:milky_way:](./Easy/414/Runtime.png)|[:sunrise_over_mountains:](./Easy/414/Memory.png)
 |461|[Hamming Distance](https://leetcode.com/problems/hamming-distance/description/) | [C#](./Easy/461/Solution.cs) |04-03-2023| [:milky_way:](./Easy/461/Runtime.png)|[:sunrise_over_mountains:](./Easy/461/Memory.png)
 |507|[Perfect Number](https://leetcode.com/problems/perfect-number/) | [C#](./Easy/507/Solution.cs) |05-05-2023| [:milky_way:](./Easy/507/Runtime.png)|[:sunrise_over_mountains:](./Easy/507/Memory.png)
+|594|[Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence/) | [C#](./Easy/594/Solution.cs) |06-04-2023| [:milky_way:](./Easy/594/Runtime.png)|[:sunrise_over_mountains:](./Easy/594/Memory.png)
 |606|[Sales Person](https://leetcode.com/problems/sales-person/description/) | [SQL](./Easy/606/Solution.sql) |04-03-2023| [:milky_way:](./Easy/606/Runtime.png)| –
 |637|[Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/) | [C#](./Easy/637/Solution.cs) |04-04-2023| [:milky_way:](./Easy/637/Runtime.png)|[:sunrise_over_mountains:](./Easy/637/Memory.png)
 |657|[Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/) | [C#](./Easy/657/Solution.cs) |01-04-2023| [:milky_way:](./Easy/657/Runtime.png)|[:sunrise_over_mountains:](./Easy/657/Memory.png)

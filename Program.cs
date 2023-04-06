@@ -1,7 +1,8 @@
 ﻿
-var sol = new LeetCode.Problem2404.Alternative.Solution();
-var nums0 = new int[] {0,1,2,2,4,4,1};
-var ans0 = sol.MostFrequentEven(nums0);
+var sol = new LeetCode.Problem2042.Solution();
+var s0 = "1 box has 3 blue 4 red 6 green and 12 yellow marbles";
+var ans0 = sol.AreNumbersAscending(s0);
+System.Console.WriteLine(" {1} => for s: '{0}'",s0,ans0);
 
 
 

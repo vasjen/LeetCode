@@ -73,5 +73,6 @@ My solved problems from [LeetCode](https://leetcode.com/problems/)
 |2413|[Smallest Even Multiple](https://leetcode.com/problems/smallest-even-multiple/) | [C#](./Easy/2413/Solution.cs) |05-04-2023| [:milky_way:](./Easy/2413/Runtime.png)|[:sunrise_over_mountains:](./Easy/2413/Memory.png)
 |2451|[Odd String Difference](https://leetcode.com/problems/odd-string-difference/) | [C#](./Easy/2451/Solution.cs) |24-02-2023| [:milky_way:](./Easy/2451/Runtime.png)|[:sunrise_over_mountains:](./Easy/2451/Memory.png)
 |2455|[Average Value of Even Numbers That Are Divisible by Three](https://leetcode.com/problems/average-value-of-even-numbers-that-are-divisible-by-three/) | [C#](./Easy/2455/Solution.cs) |23-03-2023| [:milky_way:](./Easy/2455/Runtime.png)|[:sunrise_over_mountains:](./Easy/2455/Memory.png)
+|2485|[Find the Pivot Integer](https://leetcode.com/problems/find-the-pivot-integer/) | [C#](./Easy/2485/Solution.cs) |07-04-2023| [:milky_way:](./Easy/2485/Runtime.png)|[:sunrise_over_mountains:](./Easy/2485/Memory.png)
 |2544|[Alternating Digit Sum](https://leetcode.com/problems/alternating-digit-sum/) | [C#](./Easy/2544/Solution.cs) |06-04-2023| [:milky_way:](./Easy/2544/Runtime.png)|[:sunrise_over_mountains:](./Easy/2544/Memory.png)
 

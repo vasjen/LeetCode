@@ -1,9 +1,7 @@
 ﻿
-var sol = new LeetCode.Problem997.Solution();
-var trust0 = new int[][]{
-    new int[] {1,2},
-    new int[] {2,3},
-};
+var sol = new LeetCode.Problem977.Solution();
+var nums0 = new int[]{-4,-1,0,3,10};
+    
 //var ans0 = sol.FindJudge(3,trust0);
 var trust1 = new int[][]{
     new int[] {1,3},
@@ -12,8 +10,12 @@ var trust1 = new int[][]{
     new int[] {2,4},
     new int[] {4,3},
 };
-var ans1 = sol.FindJudge(3,trust0);
-System.Console.WriteLine("{0} => Answer fo value {1}",ans1,trust1);
+var ans0 = sol.SortedSquares(nums0);
+foreach (var item in ans0)
+{
+    System.Console.Write($"{item} ");
+}
+
 
 
 

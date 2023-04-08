@@ -85,6 +85,9 @@ My solved problems from [LeetCode](https://leetcode.com/problems/)
 <details> 
 List of solved medium level problems 
   <summary>MEDIUM</summary>
+
+| # | Title | Solution |   Date   | Runtime | Memory |
+|---| ----- | -------- | -------- | --------| ------ |
 |713|[Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/) | [C#](./Medium/713/Solution.cs) |08-04-2023| [:milky_way:](./Medium/713/Runtime.png)|[:sunrise_over_mountains:](./Medium/713/Memory.png)
 
 </details>

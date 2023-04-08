@@ -91,5 +91,6 @@ List of solved medium level problems
 |---| ----- | -------- | -------- | --------| ------ |
 |713|[Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/) | [C#](./Medium/713/Solution.cs) |08-04-2023| [:milky_way:](./Medium/713/Runtime.png)|[:sunrise_over_mountains:](./Medium/713/Memory.png)
 |1004|[Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/) | [C#](./Medium/1004/Solution.cs) |08-04-2023| [:milky_way:](./Medium/1004/Runtime.png)|[:sunrise_over_mountains:](./Medium/1004/Memory.png)
+|2270|[Number of Ways to Split Array](https://leetcode.com/problems/number-of-ways-to-split-array/) | [C#](./Medium/2270/Solution.cs) |08-04-2023| [:milky_way:](./Medium/2270/Runtime.png)|[:sunrise_over_mountains:](./Medium/2270/Memory.png)
 
 </details>

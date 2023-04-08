@@ -5,8 +5,11 @@ LeetCode
 
 My solved problems from [LeetCode](https://leetcode.com/problems/)
 ***
+<details> 
+  List of solved easy level problems 
+  <summary>EASY</summary>
 
-### EASY LEVEL
+  
 | # | Title | Solution |   Date   | Runtime | Memory |
 |---| ----- | -------- | -------- | --------| ------ |
 |1|[Two Sum](https://leetcode.com/problems/two-sum/) | [C#](./Easy/1/Solution.cs) |22-02-2023| [:milky_way:](./Easy/1/Runtime.png)|[:sunrise_over_mountains:](./Easy/1/Memory.png)
@@ -78,4 +81,13 @@ My solved problems from [LeetCode](https://leetcode.com/problems/)
 |2455|[Average Value of Even Numbers That Are Divisible by Three](https://leetcode.com/problems/average-value-of-even-numbers-that-are-divisible-by-three/) | [C#](./Easy/2455/Solution.cs) |23-03-2023| [:milky_way:](./Easy/2455/Runtime.png)|[:sunrise_over_mountains:](./Easy/2455/Memory.png)
 |2485|[Find the Pivot Integer](https://leetcode.com/problems/find-the-pivot-integer/) | [C#](./Easy/2485/Solution.cs) |07-04-2023| [:milky_way:](./Easy/2485/Runtime.png)|[:sunrise_over_mountains:](./Easy/2485/Memory.png)
 |2544|[Alternating Digit Sum](https://leetcode.com/problems/alternating-digit-sum/) | [C#](./Easy/2544/Solution.cs) |06-04-2023| [:milky_way:](./Easy/2544/Runtime.png)|[:sunrise_over_mountains:](./Easy/2544/Memory.png)
+ </details>
+ 
+<details> 
+  List of solved medium level problems 
+  <summary>MEDIUM</summary>
 
+  
+| # | Title | Solution |   Date   | Runtime | Memory |
+|---| ----- | -------- | -------- | --------| ------ |
+|713|[Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/) | [C#](./Medium/713/Solution.cs) |08-04-2023| [:milky_way:](./Medium/713/Runtime.png)|[:sunrise_over_mountains:](./Medium/713/Memory.png)

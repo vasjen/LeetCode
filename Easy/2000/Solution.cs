@@ -20,13 +20,13 @@ Return the resulting string.
 }
 public class Alternative{
   public string ReversePrefix(string word, char ch) {
+    if (!word.Contains(ch))
+      return word;
     StringBuilder sb = new StringBuilder();
     int left = 0;
     int right = 0;
     while (right < word.Length - 1 && word[right] != ch)
       right++;
-    if (right == 0 || right == word.Length - 1)
-      return word;
     left = right;
     while (left >= 0)
     {

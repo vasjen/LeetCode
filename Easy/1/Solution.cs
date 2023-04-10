@@ -28,4 +28,22 @@ public class Solution {
             return Out;
     }
 }
+    public class Alternative {
+        public int[] TwoSum(int[] nums, int target) {
+            Dictionary<int,int> dic = new Dictionary<int, int>();
+            for (int i = 0; i < nums.Length; i++)
+            {
+                int value = nums[i];
+              int find = target - nums[i];
+              if (dic.ContainsKey(find))
+                return new int[] {i,dic[find]};
+
+               if (!dic.ContainsKey(value))
+                dic.Add(value,i);
+              
+            }
+                return new int[] {-1,-1};
+            }  
+
+    }
 }

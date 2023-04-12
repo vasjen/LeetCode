@@ -53,7 +53,7 @@ My solved problems from [LeetCode](https://leetcode.com/problems/)
 |1413|[Minimum Value to Get Positive Step by Step Sum](https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum/) | [C#](./Easy/1413/Solution.cs) |08-04-2023| [:milky_way:](./Easy/1413/Runtime.png)|[:sunrise_over_mountains:](./Easy/1413/Memory.png)
 |1417|[Reformat The String](https://leetcode.com/problems/reformat-the-string/) | [C#](./Easy/1417/Solution.cs) |16-03-2023| [:milky_way:](./Easy/1417/Runtime.png)|[:sunrise_over_mountains:](./Easy/1417/Memory.png)
 |1422|[Maximum Score After Splitting a String](https://leetcode.com/problems/maximum-score-after-splitting-a-string/description/) | [C#](./Easy/1422/Solution.cs) |05-03-2023| [:milky_way:](./Easy/1422/Runtime.png)|[:sunrise_over_mountains:](./Easy/1422/Memory.png)
-|1426|[Counting Elements](hhttps://leetcode.com/problems/counting-elements/) | [C#](./Easy/1426/Solution.cs) |11-04-2023| [:milky_way:](./Easy/1426/Runtime.png)|[:sunrise_over_mountains:](./Easy/1426/Memory.png)
+|1426|[Counting Elements](https://leetcode.com/problems/counting-elements/) | [C#](./Easy/1426/Solution.cs) |11-04-2023| [:milky_way:](./Easy/1426/Runtime.png)|[:sunrise_over_mountains:](./Easy/1426/Memory.png)
 |1480|[Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array) | [C#](./Easy/1480/Solution.cs) |08-04-2023| [:milky_way:](./Easy/1480/Runtime.png)|[:sunrise_over_mountains:](./Easy/1480/Memory.png)
 |1496|[Path Crossing](https://leetcode.com/problems/path-crossing/) | [C#](./Easy/1496/Solution.cs) |01-04-2023| [:milky_way:](./Easy/1496/Runtime.png)|[:sunrise_over_mountains:](./Easy/1496/Memory.png)
 |1502|[Can Make Arithmetic Progression From Sequence](https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/) | [C#](./Easy/1502/Solution.cs) |06-04-2023| [:milky_way:](./Easy/1502/Runtime.png)|[:sunrise_over_mountains:](./Easy/1502/Memory.png)
@@ -102,6 +102,7 @@ List of solved medium level problems
 
 | # | Title | Solution |   Date   | Runtime | Memory |
 |---| ----- | -------- | -------- | --------| ------ |
+|3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [C#](./Medium/3/Solution.cs) |12-04-2023| [:milky_way:](./Medium/3/Runtime.png)|[:sunrise_over_mountains:](./Medium/3/Memory.png)
 |209|[Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | [C#](./Medium/209/Solution.cs) |09-04-2023| [:milky_way:](./Medium/209/Runtime.png)|[:sunrise_over_mountains:](./Medium/209/Memory.png)
 |560|[Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | [C#](./Medium/560/Solution.cs) |11-04-2023| [:milky_way:](./Medium/560/Runtime.png)|[:sunrise_over_mountains:](./Medium/560/Memory.png)
 |713|[Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/) | [C#](./Medium/713/Solution.cs) |08-04-2023| [:milky_way:](./Medium/713/Runtime.png)|[:sunrise_over_mountains:](./Medium/713/Memory.png)

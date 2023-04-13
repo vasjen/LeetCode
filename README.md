@@ -112,3 +112,13 @@ List of solved medium level problems
 |2270|[Number of Ways to Split Array](https://leetcode.com/problems/number-of-ways-to-split-array/) | [C#](./Medium/2270/Solution.cs) |08-04-2023| [:milky_way:](./Medium/2270/Runtime.png)|[:sunrise_over_mountains:](./Medium/2270/Memory.png)
 
 </details>
+
+<details> 
+List of solved hard level problems 
+  <summary>HARD</summary>
+
+| # | Title | Solution |   Date   | Runtime | Memory |
+|---| ----- | -------- | -------- | --------| ------ |
+|4|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [C#](./Hard/4/Solution.cs) |13-04-2023| [:milky_way:](./Hard/4/Runtime.png)|[:sunrise_over_mountains:](./Hard/4/Memory.png)
+
+</details>

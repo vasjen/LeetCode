@@ -109,6 +109,7 @@ List of solved medium level problems
 |713|[Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/) | [C#](./Medium/713/Solution.cs) |08-04-2023| [:milky_way:](./Medium/713/Runtime.png)|[:sunrise_over_mountains:](./Medium/713/Memory.png)
 |1004|[Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/) | [C#](./Medium/1004/Solution.cs) |08-04-2023| [:milky_way:](./Medium/1004/Runtime.png)|[:sunrise_over_mountains:](./Medium/1004/Memory.png)
 |1208|[Get Equal Substrings Within Budget](https://leetcode.com/problems/get-equal-substrings-within-budget/) | [C#](./Medium/1208/Solution.cs) |09-04-2023| [:milky_way:](./Medium/1208/Runtime.png)|[:sunrise_over_mountains:](./Medium/1208/Memory.png)
+|1248|[Count Number of Nice Subarrays](https://leetcode.com/problems/count-number-of-nice-subarrays/) | [C#](./Medium/1248/Solution.cs) |14-04-2023| [:milky_way:](./Medium/1248/Runtime.png)|[:sunrise_over_mountains:](./Medium/1248/Memory.png)
 |1456|[Maximum Number of Vowels in a Substring of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/) | [C#](./Medium/1456/Solution.cs) |09-04-2023| [:milky_way:](./Medium/1456/Runtime.png)|[:sunrise_over_mountains:](./Medium/1456/Memory.png)
 |2270|[Number of Ways to Split Array](https://leetcode.com/problems/number-of-ways-to-split-array/) | [C#](./Medium/2270/Solution.cs) |08-04-2023| [:milky_way:](./Medium/2270/Runtime.png)|[:sunrise_over_mountains:](./Medium/2270/Memory.png)
 

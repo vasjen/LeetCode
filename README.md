@@ -103,6 +103,7 @@ List of solved medium level problems
 | # | Title | Solution |   Date   | Runtime | Memory |
 |---| ----- | -------- | -------- | --------| ------ |
 |3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [C#](./Medium/3/Solution.cs) |12-04-2023| [:milky_way:](./Medium/3/Runtime.png)|[:sunrise_over_mountains:](./Medium/3/Memory.png)
+|7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [C#](./Medium/7/Solution.cs) |14-04-2023| [:milky_way:](./Medium/7/Runtime.png)|[:sunrise_over_mountains:](./Medium/7/Memory.png)
 |209|[Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | [C#](./Medium/209/Solution.cs) |09-04-2023| [:milky_way:](./Medium/209/Runtime.png)|[:sunrise_over_mountains:](./Medium/209/Memory.png)
 |560|[Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | [C#](./Medium/560/Solution.cs) |11-04-2023| [:milky_way:](./Medium/560/Runtime.png)|[:sunrise_over_mountains:](./Medium/560/Memory.png)
 |713|[Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/) | [C#](./Medium/713/Solution.cs) |08-04-2023| [:milky_way:](./Medium/713/Runtime.png)|[:sunrise_over_mountains:](./Medium/713/Memory.png)

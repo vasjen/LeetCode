@@ -115,6 +115,7 @@ List of solved medium level problems
 |1248|[Count Number of Nice Subarrays](https://leetcode.com/problems/count-number-of-nice-subarrays/) | [C#](./Medium/1248/Solution.cs) |14-04-2023| [:milky_way:](./Medium/1248/Runtime.png)|[:sunrise_over_mountains:](./Medium/1248/Memory.png)
 |1456|[Maximum Number of Vowels in a Substring of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/) | [C#](./Medium/1456/Solution.cs) |09-04-2023| [:milky_way:](./Medium/1456/Runtime.png)|[:sunrise_over_mountains:](./Medium/1456/Memory.png)
 |2225|[Find Players With Zero or One Losses](https://leetcode.com/problems/find-players-with-zero-or-one-losses/) | [C#](./Medium/2225/Solution.cs) |14-04-2023| [:milky_way:](./Medium/2225/Runtime.png)|[:sunrise_over_mountains:](./Medium/2225/Memory.png)
+|2260|[Minimum Consecutive Cards to Pick Up](https://leetcode.com/problems/minimum-consecutive-cards-to-pick-up/) | [C#](./Medium/2260/Solution.cs) |15-04-2023| [:milky_way:](./Medium/2260/Runtime.png)|[:sunrise_over_mountains:](./Medium/2260/Memory.png)
 |2270|[Number of Ways to Split Array](https://leetcode.com/problems/number-of-ways-to-split-array/) | [C#](./Medium/2270/Solution.cs) |08-04-2023| [:milky_way:](./Medium/2270/Runtime.png)|[:sunrise_over_mountains:](./Medium/2270/Memory.png)
 
 </details>
